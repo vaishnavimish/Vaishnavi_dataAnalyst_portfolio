@@ -1,6 +1,6 @@
-# Vaishnavi_dataAnalyst_portfolio
+# DataAnalyst_portfolio
 
-# Data Analyst: Sales Insights
+# Data Analysis: Triware Computer Hardware Sales Insights
  * The insight is drawn based on a computer hardware business which is facing challenges in dynamically changing market.
  * Used AIMS grid procedure to define purpose and success criteria of this project. 
  * Analysed the database by performing the sql queries and then linked it up with Tableau visualization tool.
